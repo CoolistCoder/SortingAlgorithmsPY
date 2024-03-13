@@ -48,3 +48,5 @@ print("Sort using bubble sort: ")
 bubble_sort(arr2)
 for i in range(len(arr2)):
     print(arr2[i])
+
+print('Program complete, have a nice day!')
